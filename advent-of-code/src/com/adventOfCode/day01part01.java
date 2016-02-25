@@ -29,7 +29,7 @@ import java.nio.file.Paths;
 
  To what floor do the instructions take Santa?
 
- day01part01.txt
+ day01input.txt
 
  */
 
